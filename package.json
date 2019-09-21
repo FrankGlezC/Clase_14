@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FrankGlezC/Clase_14/issues"
   },
-  "homepage": "https://github.com/FrankGlezC/Clase_14#readme"
+  "homepage": "https://github.com/FrankGlezC/Clase_14#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
